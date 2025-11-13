@@ -135,13 +135,13 @@ Models true physical design effects:
 # 📈 **Model Performance**
 
 ### **Regression (Random Forest)**
-- **R² Score:** ~0.90–0.94  
-- **MAE:** Low  
-- **MAPE:** < 10% for most layouts  
+- **R² Score:** ~ 0.90-0.96  
+- **MAE:** 0.049-0.093 
+- **MAPE:** <15%  
 - Very strong correlation between predicted vs actual congestion.
 
 ### **Classification (Green/Yellow/Red)**
-- **Accuracy:** 85–92%  
+- **Accuracy:** 95-97%  
 - Clean confusion matrix with few misclassifications.
 
 ---
