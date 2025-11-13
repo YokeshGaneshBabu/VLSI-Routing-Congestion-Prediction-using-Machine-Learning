@@ -49,15 +49,11 @@ Models true physical design effects:
 
 # 🗂️ **Repository Structure**
 <pre>
-├── generators/
-│   ├── synthetic_generator.py
-│   ├── realistic_congestion_generator.py
-│
-├── training/
-│   ├── train_models.py
-│
-├── testing/
-│   ├── test_pipeline.py
+├── src/
+│   ├── congestion_map_gen.py
+│   ├── dataset_gen.py
+│   ├── training.py
+│   ├── testing.py
 │
 ├── outputs/
 │   ├── congestion_distribution.png
@@ -70,5 +66,6 @@ Models true physical design effects:
 │   ├── test_results_comparison.png
 │   ├── congestion_map_statistics.csv
 │   ├── test_results_summary.csv
-└── README.md <pre>
+└── README.md
+<pre>
 
