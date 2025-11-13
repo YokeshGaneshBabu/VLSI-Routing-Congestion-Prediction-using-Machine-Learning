@@ -145,7 +145,7 @@ Models true physical design effects:
 - Clean confusion matrix with few misclassifications.
 
 ---
-#📝 **Future Work**
+# 📝 **Future Work**
 
 - CNN-based congestion heatmap prediction
 
@@ -157,7 +157,7 @@ Models true physical design effects:
 
 - GAN-based synthetic layout creation
 
-#✨ **Author**
+# ✨ **Author**
 Yokesh Ganesh Babu
 
 
