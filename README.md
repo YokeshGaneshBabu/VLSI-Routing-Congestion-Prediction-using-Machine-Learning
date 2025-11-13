@@ -66,9 +66,7 @@ Models true physical design effects:
 │   ├── test_results_comparison.png
 │   ├── congestion_map_statistics.csv
 │   ├── test_results_summary.csv
-└── README.md
-<pre>
-
+└── README.md <pre>
 ---
 
 # 📊 **Key Results (Visuals)**
